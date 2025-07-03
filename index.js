@@ -115,7 +115,7 @@ const appendContractDataFile = async (
   selectedContract,
   optionSymbolInterestRollup
 ) => {
-  const fileName = `${selectedContract.underlying}.json`;
+  const fileName = `data/${selectedContract.underlying}.json`;
 
   let data = [];
   try {
