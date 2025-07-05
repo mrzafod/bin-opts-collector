@@ -3,6 +3,8 @@ export const symbols = [
   {id: 'ETHUSDT', tick: 25},
   {id: 'BNBUSDT', tick: 10},
   {id: 'SOLUSDT', tick: 2},
+  {id: 'XRPUSDT', tick: 0.5},
+  {id: 'DOGEUSDT', tick: 0.002},
 ]
 
 export const keepDays = 7;
